@@ -1,0 +1,30 @@
+#div
+{
+    width: 1000px;
+    border: 3px solid rgb(2, 2, 132);
+}
+#p
+{
+    border-bottom: 3px solid rgb(2, 2, 132);
+    color: rgb(2, 2, 132);
+    margin: 0;
+    font-weight: 400;
+    font-size: 17px;
+    padding: 5px 5px 5px 10px;
+}
+.title 
+{
+    height: 30px;
+    margin: 0;
+    padding-top: 10px;
+    padding-left: 3px;
+    color: white;
+    border-bottom: 3px solid rgb(2, 2, 132);
+    background-color: rgb(63, 122, 170);
+    font-weight: 600;
+    font-size: 18px;
+}
+#title4
+{
+    border: none;
+}
